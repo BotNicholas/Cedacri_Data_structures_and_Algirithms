@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Desktop/MINT/StackCalculator/Stack.h
+iostream
+-
+
+E:/Desktop/MINT/StackCalculator/main.cpp
+iostream
+-
+cstring
+-
+Stack.h
+E:/Desktop/MINT/StackCalculator/Stack.h
+

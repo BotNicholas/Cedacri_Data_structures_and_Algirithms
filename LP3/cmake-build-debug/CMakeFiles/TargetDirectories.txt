@@ -1,0 +1,3 @@
+/home/nicholas/Desktop/LP3/cmake-build-debug/CMakeFiles/LP3.dir
+/home/nicholas/Desktop/LP3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nicholas/Desktop/LP3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
